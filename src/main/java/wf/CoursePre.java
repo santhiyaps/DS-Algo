@@ -22,7 +22,7 @@ public class CoursePre {
                 {"Data Structures", "Algorithms"},
         };
       System.out.println(findMid(prereqs_courses1));
-      System.out.println(findMid(prereqs_courses2));
+     System.out.println(findMid(prereqs_courses2));
       System.out.println(findMid(prereqs_courses3));
 
     }
